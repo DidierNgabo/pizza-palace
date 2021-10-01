@@ -14,7 +14,7 @@
 }
 
 .card-text {
-  @apply w-44 md:w-56 mx-auto mt-4;
+  @apply w-44 md:w-56 text-lg mx-auto mt-4;
 }
 .card-badge {
   @apply bg-green-400 bg-opacity-50 text-white text-xs  uppercase font-bold rounded-full p-2 absolute top-0 ml-2 mt-2;

@@ -32295,6 +32295,8 @@ video {
   margin-right: auto;
   margin-top: 1rem;
   width: 11rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 @media (min-width: 768px) {
